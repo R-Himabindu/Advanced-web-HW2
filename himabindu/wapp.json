@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+[
+    {
+    "description" : "Get groceries",
+    "tags" : [ "shopping", "chores" ]
+    },
+    {
+    "description" : "Make up some new ToDos",
+    "tags" : [ "writing", "work" ]
+    },
+    {
+    "description" : "Prep for Monday's class",
+    "tags" : [ "work", "teaching" ]
+    },
+    {
+    "description" : "Answer emails",
+    "tags" : [ "work" ]
+    },
+    {
+    "description" : "Take Gracie to the park",
+    "tags" : [ "chores", "pets" ]
+    },
+    {
+    "description" : "Finish writing this book",
+    "tags" : [ "writing", "work" ]
+    }
+   ]
+
+
+
+
+
+
+   [
+    {
+    "name": "shopping",
+    "toDos": ["Get groceries"]
+    },
+    {
+    "name": "chores",
+    "toDos": ["Get groceries", "Take Gracie to the park"]
+    },
+    {
+    "name": "writing",
+    "toDos": ["Make up some new ToDos", "Finish writing this book"]
+    },
+    {
+    "name": "work",
+    "toDos": ["Make up some new ToDos", "Prep for Monday's class",
+    "Answer emails", "Finish writing this book"]
+    },
+    {
+    "name": "teaching",
+    "toDos": ["Prep for Monday's class"]
+    },
+    {
+    "name": "pets",
+    "toDos": ["Take Gracie to the park"]
+    }
+   ]
+   
+   

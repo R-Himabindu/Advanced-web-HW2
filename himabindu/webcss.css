@@ -1,0 +1,81 @@
+.tabs a span {
+    display: inline-block;
+    border-radius: 5px 5px 0 0;
+    width: 100px;
+    margin-right: 10px;
+    text-align: center;
+    background:grey;
+    padding: 5px;
+   }
+
+.tabs a span.active {
+    background: grey;
+   }
+   
+header, main, footer {
+    min-width: 855px;
+   }
+   
+body {
+    background: darkolivegreen;
+   }
+
+header, main, footer {
+    min-width: 855px;
+   }
+
+   header {
+    background: lightcyan;
+   }
+   main {
+    background: white;
+   }
+
+   body {
+    background: darkolivegreen;
+   }
+   header, main, footer {
+    min-width: 855px;
+   }
+   header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+   }
+   header {
+    background: white;
+   }
+   main {
+    background: lightblue;
+   }
+   
+   header {
+    background: lightskyblue;
+    overflow: auto;
+   }
+
+   header h1 {
+    float: left;
+    width: 570px;
+   }
+   header nav {
+    float: right;
+    width: 285px;
+   }
+
+
+   * {
+    color: black    ;
+   }
+   
+   
+
+
+
+
+
+
+
+
+
+
+
